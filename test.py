@@ -1,2 +1,2 @@
-prin("hello Isha! v2")
+print("hello Isha! v2")
 
